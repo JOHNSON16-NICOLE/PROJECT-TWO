@@ -23,5 +23,8 @@ https://docs.google.com/spreadsheets/d/1nbhfp2ModgqDAPveYQG9CknRw2PYJQxbOTs3xSKO
 •	Assigned a numeric sort order to the Role field (Staff → Not Specified → Supervisor → Manager → Director) so dashboard visuals display roles in a logical hierarchy
 
 ## Dashboard screenshot 
-<img width="984" height="554" alt="PIERCE EMPLOYEE" src="https://github.com/user-attachments/assets/2fe77b93-877c-436c-b8c2-689e1a643c54" />
+<img width="984" height="554" alt="PIERCE EMPLOYEE" src="https://github.com/user-attachments/assets/2fe77b93-877c-436c-b8c2-689e1a643c54"
+  
+# Report  
+https://drive.google.com/file/d/1gOJ6QeVEC77SyCCGSjmeUIOObafy5B7L/view?usp=sharinghttps://drive.google.com/file/d/1gOJ6QeVEC77SyCCGSjmeUIOObafy5B7L/view?usp=sharing/>
 
