@@ -1,4 +1,4 @@
-# The Pierce County WA Employee Survey ( interactive dashboard creation using power bi)
+# The Pierce County WA Employee Survey 
 
 ## Project Objectives 
 To analyze the employee engagement survey responses voluntarily provided by government employees of Pierce County, in order to assess employee engagement, identify key workplace trends, and generate insights that can support informed organizational decision-making and improve employee satisfaction.
@@ -12,7 +12,7 @@ https://docs.google.com/spreadsheets/d/1nbhfp2ModgqDAPveYQG9CknRw2PYJQxbOTs3xSKO
 3. As an employer, what steps might you take to improve employee satisfaction based on the survey results?
 4. What is the overall employee sentiment?
 
-Dashboard interactions   https://drive.google.com/file/d/1j0P1DAsc1RFE_Bs5aNc58CnLq-7RHgTe/view?usp=sharing
+## Dashboard interactions   https://drive.google.com/file/d/1j0P1DAsc1RFE_Bs5aNc58CnLq-7RHgTe/view?usp=sharing
 
 ## process
 •	Correctly typed each column (IDs and role flags as whole numbers, Response as a number, remaining fields as text)
